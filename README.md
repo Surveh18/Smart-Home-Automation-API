@@ -591,7 +591,7 @@ smart-home-api/
 │   ├── urls.py                   # URL routing
 │   └── tests.py                  # Unit tests (23 tests)
 │
-├── project/                       # Project settings
+├── smarthome/                       # Project settings
 │   ├── settings.py               # Django configuration
 │   ├── urls.py                   # Root URL configuration
 │   └── wsgi.py                   # WSGI configuration
